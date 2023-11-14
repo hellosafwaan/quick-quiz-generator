@@ -22,8 +22,6 @@ Creating quizzes using traditional methods can be time-consuming and tedious. Th
     * Example: "Rome", "Milan", "Paris", "Berlin"
 
 [CLICK HERE FOR EXAMPLE CSV FILE](https://drive.google.com/file/d/1jgaIR-EUWc2YFHmnjnqNQLFcgqsABnLo/view?usp=sharing)
-## CSV File Proccessing
-
 ### Files and Folders
     .
     ├── README.md                 A file for your future self and developer friends to learn about the app
